@@ -16,7 +16,7 @@ The benefits are that it is usualy very cost effective as you are only paying fo
 
 AWS is Amazon Web Services and it is THE world's most used cloud platofrm. That has more than 200 data centres globally. It offers it's services to the larger companies and also th e start ups. 
 
-companies like netlfix, expedia and slack use AWS because it lowers costs and is more agile and the company are able to innovate faster.
+companies like `netlfix`, `expedia` and `slack` use AWS because it lowers costs and is more agile and the company are able to innovate faster.
 
 
 ---
@@ -29,6 +29,8 @@ companies like netlfix, expedia and slack use AWS because it lowers costs and is
 - CAP-EX = Capital expenditures are major purchases a company makes that are designed to be used over the long term.
 - OP-EX = Operating expenses are the day-to-day expenses a company incurs to keep its business operational.
 
+![alt text](../eng130-aws-intro/images/CAPEX.png)
 ---
+### What is aws diagram
 
 ![''](https://coursereport-production.imgix.net/rich/rich_files/rich_files/5032/original/what-is-aws-learn-amazon-web-services-infographic.png?auto=compress%2Cformat&w=3038&h=)
