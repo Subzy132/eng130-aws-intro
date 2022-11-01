@@ -5,33 +5,33 @@
 3. You should be able to see all the instances that are running at the time if there are any
 4. Click on the `Launch instances` button 
 ---
-![alt text](../eng130-aws-intro/images/Step1.png)
+![alt text](https://github.com/Subzy132/eng130-aws-intro/blob/main/images/Step1.png)
 
 ---
 
-5. Name the instance with best practices e,g `eng130_subhaan`
-6. Find the `ubuntu` version `18.04`
-7. Leave the instance type as default
-8. Key pair should be  `eng130` 
+1. Name the instance with best practices e,g `eng130_subhaan`
+2. Find the `ubuntu` version `18.04`
+3. Leave the instance type as default
+4. Key pair should be  `eng130` 
 ---   
-![alt text](../eng130-aws-intro/images/Step2.png)
+![alt text](https://github.com/Subzy132/eng130-aws-intro/blob/main/images/Step2.png)
 
 ---
 
-9.  In network settings a security group has been made called `eng130_subhaan_sg` 
+1.  In network settings a security group has been made called `eng130_subhaan_sg` 
 
 ---
-![alt text](../eng130-aws-intro/images/Step3.png)
+![alt text](https://github.com/Subzy132/eng130-aws-intro/blob/main/images/Step3.png)
 
 ---
 
-10. Configure storage could just be `8gb`
-11. Have a look through the summary to see if everything is correct
-12. Press `Launch instance` 
-13. you will now see it in the `instances` tab 
+1.  Configure storage could just be `8gb`
+2.  Have a look through the summary to see if everything is correct
+3.  Press `Launch instance` 
+4.  you will now see it in the `instances` tab 
 ---
 
-![alt text](../eng130-aws-intro/images/Step4.png)
+![alt text](https://github.com/Subzy132/eng130-aws-intro/blob/main/images/Step4.png)
 
 ---
 
