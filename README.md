@@ -26,6 +26,9 @@ companies like netlfix, expedia and slack use AWS because it lowers costs and is
 ---
 ### CAP-EX vs OP-EX
 
+- CAP-EX = Capital expenditures are major purchases a company makes that are designed to be used over the long term.
+- OP-EX = Operating expenses are the day-to-day expenses a company incurs to keep its business operational.
+
 ---
 
 ![''](https://coursereport-production.imgix.net/rich/rich_files/rich_files/5032/original/what-is-aws-learn-amazon-web-services-infographic.png?auto=compress%2Cformat&w=3038&h=)
