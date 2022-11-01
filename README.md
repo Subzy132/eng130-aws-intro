@@ -10,6 +10,12 @@ Cloud computing is good because it offers faster innovation, flexible resources 
 
 The benefits are that it is usualy very cost effective as you are only paying for the cloud service. You will be able to run your infrastructure more efficiently and scale your business whenever needed. 
 
+- Ease of use
+- Flexibility 
+- Robustness
+- Cost
+- 
+
 ---
 
 ### What is AWS? Who is using it and why?
@@ -31,6 +37,11 @@ companies like `netlfix`, `expedia` and `slack` use AWS because it lowers costs 
 
 ![alt text](../images/CAPEX.png)
 ---
+
+### What is On-Prem? 
+
+An on-premises data center is a group of servers that you privately own and control. Traditional cloud computing (as opposed to hybrid or private cloud computing models) involves leasing data center resources from a third-party service provider.
+
 ### What is aws diagram
 
 ![''](https://coursereport-production.imgix.net/rich/rich_files/rich_files/5032/original/what-is-aws-learn-amazon-web-services-infographic.png?auto=compress%2Cformat&w=3038&h=)
