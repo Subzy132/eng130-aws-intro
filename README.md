@@ -29,7 +29,7 @@ companies like `netlfix`, `expedia` and `slack` use AWS because it lowers costs 
 - CAP-EX = Capital expenditures are major purchases a company makes that are designed to be used over the long term.
 - OP-EX = Operating expenses are the day-to-day expenses a company incurs to keep its business operational.
 
-![alt text](../eng130-aws-intro/images/CAPEX.png)
+![alt text](../images/CAPEX.png)
 ---
 ### What is aws diagram
 
