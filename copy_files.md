@@ -5,5 +5,9 @@
 3. On your OS run a command that looks like this `scp -i eng130.pem -r /Users/subhaanadmin/end130_virtualisation/app/ ubuntu@ec2-52-208-34-131.eu-west-1.compute.amazonaws.com:/home/ubuntu`
 4. It should now copy all the files from that directory
 5. From the vm you can `ls` from the destination to see if the files are there 
+6. `cd` into the app folder and run `npm install` and `npm start`
+7. run the app on the browser using the ip and it should start up 
+   
+---
    
 ![alt text](https://github.com/Subzy132/eng130-aws-intro/blob/main/images/2-tier%20diagram.png)
