@@ -6,4 +6,4 @@
 4. It should now copy all the files from that directory
 5. From the vm you can `ls` from the destination to see if the files are there 
    
-![alt text](https://github.com/Subzy132/eng130-aws-intro/blob/main/images/2_tier%diagram.png)
+![alt text](https://github.com/Subzy132/eng130-aws-intro/blob/main/images/2-tier%20diagram.png)
