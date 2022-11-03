@@ -23,6 +23,10 @@ Amazon S3 provides management features so that you can optimize, organize, and c
 
 There are use cases such as data lakes, websites, mobile applications, backup and restore, archive, enterprise applications, IoT devices, and big data analytics.
 
+Examples
+: hello this is an example
+
+fsjsiodg
 ### How to set up s3 bucket connection
 
 1. SSH into an instance that's not a db
