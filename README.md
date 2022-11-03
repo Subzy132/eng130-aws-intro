@@ -64,6 +64,6 @@ An on-premises data center is a group of servers that you privately own and cont
 
 ---
 
-![alt text](https://github.com/Subzy132/eng130-aws-intro/blob/main/images/s3diagram.png)
+<!-- ![alt text](https://github.com/Subzy132/eng130-aws-intro/blob/main/images/s3diagram.png) -->
 
 ![Alt text](/images/s3diagram.png "s3 diagram")
