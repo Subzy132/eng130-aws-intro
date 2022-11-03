@@ -45,3 +45,23 @@ An on-premises data center is a group of servers that you privately own and cont
 ### What is aws diagram
 
 ![''](https://coursereport-production.imgix.net/rich/rich_files/rich_files/5032/original/what-is-aws-learn-amazon-web-services-infographic.png?auto=compress%2Cformat&w=3038&h=)
+
+---
+### How to set up s3 bucket
+
+1. SSH into an instance that's not a db
+2. Run `sudo apt-get install python3`
+3. Run `sudo apt-get install python3-pip`
+4. Run `sudo pip3 installl awscli`
+5. Check python version by running `python --version`
+6. If the version is below 3 run `alias python=python3` this should allow you to use python above 3
+7. run `aws configure` and you should have 4 prompts 
+   1. Access Key - enter your access key
+   2. Secret Key - enter your secret key
+   3. Region - enter aws region
+   4. Output - enter output e.g `json`
+8. if everything is working correctly. when you run `aws s3 ls` youu should see all the busckets 
+
+---
+
+![alt text](https://github.com/Subzy132/eng130-aws-intro/blob/main/images/s3diagram.png)
